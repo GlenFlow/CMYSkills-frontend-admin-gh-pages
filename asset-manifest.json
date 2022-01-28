@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://glenflow.github.io/CMYSkills-frontend-admin-gh-pages/static/css/main.2774643e.css",
-    "main.js": "https://glenflow.github.io/CMYSkills-frontend-admin-gh-pages/static/js/main.976daa27.js",
+    "main.js": "https://glenflow.github.io/CMYSkills-frontend-admin-gh-pages/static/js/main.b85a3f19.js",
     "static/js/27.61895497.chunk.js": "https://glenflow.github.io/CMYSkills-frontend-admin-gh-pages/static/js/27.61895497.chunk.js",
     "pdf.worker.js": "https://glenflow.github.io/CMYSkills-frontend-admin-gh-pages/e7e915313973ba1d49f9bb2a1998626e.js",
     "static/media/Lato-Semibold.ttf": "https://glenflow.github.io/CMYSkills-frontend-admin-gh-pages/static/media/Lato-Semibold.7a231abc54c0ff4428f0.ttf",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.2774643e.css",
-    "static/js/main.976daa27.js"
+    "static/js/main.b85a3f19.js"
   ]
 }
